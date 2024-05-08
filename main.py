@@ -9,7 +9,7 @@ def feedback():
 
 
 hosts = ('05', '04', '03', '02', '01')
-hook = Webhook('https://discord.com/api/webhooks/1201086934462763038/dwin_1dGa0ugJtlc65n0yucOTHaPCqlU-1yTwWXKERH2SI8tKslC5L0sC86Kci9czm1f')
+hook = Webhook('webhook url')
 
 
 def carnage_finder():
